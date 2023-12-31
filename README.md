@@ -1,1 +1,2 @@
-# Kanku
+# Kanku 
+Tourism app
