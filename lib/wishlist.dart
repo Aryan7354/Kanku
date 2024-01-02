@@ -116,6 +116,8 @@ class _wishlistState extends State<wishlist> {
                           ],
                         ),
                       ),
+
+
                       Padding(
                         padding: const EdgeInsets.only(top: 20),
                         child: Text(
